@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "name": "Arrow Icon",
+      "svg": "<svg><!-- arrow svg code --></svg>",
+      "folderName": "Arrows"
+    },
+    {
+      "name": "Close Icon",
+      "svg": "<svg><!-- close svg code --></svg>",
+      "folderName": "Actions"
+    }
+  ]
+}
